@@ -419,12 +419,12 @@ html {
   padding-bottom: 8px !important;
 }
 
-.footer-copywright {
-  text-align: center !important;
-}
 
 .footer-body {
   text-align: center !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @media (max-width: 767px) {

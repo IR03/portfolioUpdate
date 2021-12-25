@@ -8,7 +8,7 @@ const AboutMe = () => {
 								<div class="row">
 										<div class="col-lg-12 ">
 											<div class="about-headline">
-												<h3>FEW WORDS ABOUT MARUF</h3>
+												<h3>FEW WORDS ABOUT Iftikhar</h3>
 											</div>
 										</div>
 								</div>

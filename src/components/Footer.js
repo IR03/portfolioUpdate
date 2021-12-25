@@ -9,11 +9,8 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        {/* <Col md="4" className="footer-copywright">
-          <span className="text-light">Designed and Developed by Maruf Billah</span>
-        </Col> */}
-        <Col md="6" className="footer-copywright">
-        <span className="text-light">Copyright © {year} <span className="copyRight">Iftikhar Md. Sakib</span></span>
+        <Col md="6" className="footer-body">
+        <span className="text-light">Copyright © {year} <span className="copyRight">Iftikhar Mohammad Sakib</span></span>
         </Col>
         <Col md="6" className="footer-body">
           <ul className="footer-icons">

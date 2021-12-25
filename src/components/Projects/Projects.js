@@ -32,7 +32,7 @@ function Projects() {
               isBlog={false}
               title="Hastech IT Solution BD"
               description=" It is an agency website, which serves some services like web development, graphics design, mobile application design, photography etc. "
-              link="https://github.com/marufpbt/hashtech-client"
+              link="https://github.com/Iftikharpbt/hashtech-client"
               live="https://hashtechitsolutionbd.web.app/"
               tech="Technology used:"
               techdesc="React, Bootstrap4, Node, Express, MongoDB, Firebase, React Router"
@@ -45,8 +45,8 @@ function Projects() {
               isBlog={false}
               title="Doctor's Portal"
               description=" A Single page web app with dashboard where people can pick the date and time and fix an appointment. "
-              link="https://github.com/marufpbt/doctors-portal-client"
-              live="https://doctors-portal-marufpbt.web.app/"
+              link="https://github.com/Iftikharpbt/doctors-portal-client"
+              live="https://doctors-portal-Iftikharpbt.web.app/"
               tech="Technology used:"
               techdesc="React, Bootstrap4, Node, Express, MongoDB, Firebase, React Router"
             />
@@ -58,7 +58,7 @@ function Projects() {
               isBlog={false}
               title="Burj Al Arab"
               description="A Single page web app with dashboard where people can pick the date and time and fix room booking."
-              link="https://github.com/marufpbt/burj-al-arab"
+              link="https://github.com/Iftikharpbt/burj-al-arab"
               live="https://burj-al-arab-59182.web.app/"
               tech="Technology used:"
               techdesc="React, Bootstrap4, Node, Express, MongoDB, Firebase, React Router"
@@ -72,8 +72,8 @@ function Projects() {
               isBlog={false}
               title="Panda Ecommerce"
               description="A single page ecommerce app where people are able to select shopping in their cart and checkout the cart with their information ."
-              link="https://github.com/marufpbt/shopping-cart"
-              live="https://marufpbt.github.io/panda-ecommerce-bootstrap/"
+              link="https://github.com/Iftikharpbt/shopping-cart"
+              live="https://Iftikharpbt.github.io/panda-ecommerce-bootstrap/"
               tech="Technology used:"
               techdesc="HTML5, CSS3, Bootstrap4, GitHub Hosting"
             />

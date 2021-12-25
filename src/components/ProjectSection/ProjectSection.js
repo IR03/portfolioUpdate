@@ -13,9 +13,10 @@ const ProjectSection = () => {
             <SingleProject key={project.id} project={project} />
           ))}
         </div>
-        <div className='allProject d-flex justify-content-center mt-5'>
-          <button className='btn-primary btn'>All My Project</button>
-        </div>
+        {/* <div className='allProject d-flex justify-content-center mt-5'>
+          <button className='btn-primary btn' onclick="location.href='https://google.com';">All My Projects</button>
+        </div> */}
+        
       </div>
     </section>
   );

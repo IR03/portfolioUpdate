@@ -6,7 +6,7 @@ const Contact = () => {
            <div className="container">
                <div className=" text-center text-white mb-5">
                     <h5 style={{color:'#f9004d'}}>Contact</h5>
-                    <h1>Always  connect with us</h1>
+                    <h1>Always  connect with me</h1>
                </div>
                <div className="col-md-9 mx-auto">
                    <form action="https://formspree.io/f/myylebpo" method="POST">
