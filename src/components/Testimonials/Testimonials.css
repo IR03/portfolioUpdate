@@ -1,0 +1,26 @@
+.testimonials .container{
+    background-image: url(../../Assets/quote.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+}
+.testimonials .card{
+    border-color: transparent;
+}
+
+.testimonials .card .card-footer{
+    background: transparent;
+    border: 0;
+}
+.testimonials{
+    background: #101010;
+    position: relative !important;
+}
+@media (max-width: 767px) {
+    .testimonials .container{
+        background-image: url(../../Assets/quote.png);
+        background-repeat: no-repeat;
+        background-position: top right;
+        background-size: 50px;
+    }
+}

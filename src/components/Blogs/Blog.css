@@ -1,0 +1,10 @@
+.blog-card{
+    background-color: #070708;
+    transition: all .5s ease-in-out;
+}
+.blog-card img{
+    border: 5px solid #25CA7F;
+}
+ .blog-card:hover{
+    transform: rotate(5deg) scale(1.1);
+ }

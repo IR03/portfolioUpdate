@@ -1,0 +1,78 @@
+#about-area {
+    background: #fff;
+}
+.bg-primary.primary-change {
+    background-color: #ff3d4f !important;
+}
+.btn.btn-submit{
+	border: 1px solid #fff;
+    background: #ff3d4f;
+}
+.about-headline{
+	    margin-bottom: 60px;
+}
+.about-headline h2 {
+    font-size: 36px;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    font-weight: 900;
+	margin-bottom: 20px;
+	text-align:center;
+	color:#ff3d4f;
+}
+.about-information{}
+.about-information h3{
+	font-size: 25px;
+    margin-bottom: 20px;
+}
+.about-information p{
+	margin-bottom: 30px;
+}
+.cv-button-area{}
+.resume{}
+.resume a{
+	border: none;
+    border-radius: 0;
+    color: #ffffff;
+   background:#ff3d4f;
+    padding: 12px 30px;
+    text-transform: uppercase;
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.hire-me a{
+	border: none;
+    border-radius: 0;
+    color: #ffffff;
+   background:#000 !important;
+    padding: 12px 30px;
+    text-transform: uppercase;
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.card-form {
+    opacity: 0.8;
+	}
+.card-reg-form{}
+.card-reg-form h3{}
+.card-reg-form p{
+	font-weight:normal;
+}
+.form-maintain.form-control-lg {
+    height: calc(1.5em + 1rem + 2px);
+    padding: 0.5rem 1rem;
+    font-size: 2.0rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+}

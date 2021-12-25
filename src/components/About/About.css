@@ -1,0 +1,30 @@
+#skill-area img{
+	border: 12px solid #fff;
+    box-shadow: 0px 16px 32px 0px rgba(167, 178, 219, 0.3);
+    width: 100%;
+}
+.about-me-area{}
+.about-me-area span{
+	font-size: 14px;
+    color: #ff3d4f;
+    margin-bottom: 25px;
+    display: block;
+}
+.about-me-area h2{}
+.progress {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 20px;
+    overflow: hidden;
+    font-size: 1.75rem;
+    background-color: #e9ecef;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+.devicon-javascript-plain{
+    color:yellow;
+}
+.devicon-react-original-wordmark{
+    color: #61DBFB;
+}

@@ -1,0 +1,15 @@
+.single-skill ul li {
+    color: #fff;
+    background-color: #f9004d;
+    transition: all .3s ease-in-out;
+    font-size: 16px;
+}
+.single-skill ul li:hover{
+    background-color:#20263f;
+    cursor: pointer;
+    color:#fff;
+}
+/* li.list-inline-item.p-1.m-1.rounded.font-weight-bold {
+    font-size: 15px;
+    font-weight: 100;
+} */
